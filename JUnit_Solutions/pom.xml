@@ -4,10 +4,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>be.cocoding.training</groupId>
-  <artifactId>junit-exercice-04</artifactId>
+  <artifactId>junit-exercice-solutions</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <description>JUnit Exercice - Lab 04</description>
+  <description>JUnit Exercice - Solutions</description>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
